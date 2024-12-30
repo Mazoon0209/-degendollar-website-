@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DegenDollar ($DEGEN) - The Meme Coin Revolution</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        header p {
+            margin: 5px 0 0;
+            font-size: 1.2rem;
+        }
+        .main-content {
+            padding: 20px;
+            text-align: center;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 15px 25px;
+            font-size: 1.2rem;
+            color: #fff;
+            background: #ff5722;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .cta-button:hover {
+            background: #e64a19;
+        }
+        .features {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 40px;
+            flex-wrap: wrap;
+        }
+        .feature {
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            max-width: 300px;
+        }
+        .feature h3 {
+            margin-top: 0;
+            color: #ff5722;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+        }
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>DegenDollar ($DEGEN)</h1>
+        <p>The Ultimate Meme Coin for Whales, Degens, and Dreamers!</p>
+    </header>
+
+    <div class="main-content">
+        <h2>Join the Revolution. Hold $DEGEN.</h2>
+        <p>
+            $DEGEN is not just a coin; it's a movement. Whether you're hodling or flipping, we're building a community of like-minded degens and whales ready to dominate the meme coin market.
+        </p>
+        <a href="#" class="cta-button">Get $DEGEN Now</a>
+
+        <div class="features">
+            <div class="feature">
+                <h3>🚀 Explosive Potential</h3>
+                <p>$DEGEN is your ticket to the moon. High risk, high reward!</p>
+            </div>
+            <div class="feature">
+                <h3>🐋 Whale-Friendly</h3>
+                <p>Big holdings mean big impact. Dive into the market with $DEGEN.</p>
+            </div>
+            <div class="feature">
+                <h3>🌍 Community Driven</h3>
+                <p>We're building an army of degens and whales to lead the charge.</p>
+            </div>
+            <div class="feature">
+                <h3>😂 Meme Culture</h3>
+                <p>Be part of the meme revolution. The market loves memes, and so do we.</p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 DegenDollar. All Rights Reserved. | <a href="#" style="color: #ff5722; text-decoration: none;">Privacy Policy</a></p>
+    </footer>
+</body>
+</html>
